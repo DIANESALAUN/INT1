@@ -1,0 +1,19 @@
+header {
+    border: 1px solid red;
+    text-align : center;
+    background-color: #D3D3D3;
+}
+h1 {
+    color:red;
+}
+.dashed {
+    border: dashed 1px red;
+}
+.license {
+    border: 1px solid black;
+    text-align : center;
+    background-color: #D3D3D3;
+}
+.txt-red {
+    color:red;
+}
