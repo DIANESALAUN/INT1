@@ -6,7 +6,7 @@ header {
 h1 {
     color:red;
 }
-.dashed {
+.parent {
     border: dashed 1px red;
 }
 .license {
@@ -16,4 +16,9 @@ h1 {
 }
 .txt-red {
     color:red;
+}
+body {
+    font-family : sans-serif;
+    color : #555;
+    background-color: #eee;
 }
